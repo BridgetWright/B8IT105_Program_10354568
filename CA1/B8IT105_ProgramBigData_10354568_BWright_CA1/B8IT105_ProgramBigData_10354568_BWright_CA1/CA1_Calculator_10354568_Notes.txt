@@ -1,0 +1,12 @@
+# Student no: 10354568
+# Student name: Bridget Wright
+# Module: Programming for Data Analytics
+# Assignment: CA 1
+# Submission Date: Sun 26th Mar 2017
+# Assignment Title: A 10 function scientific calculator
+# A functioning calculator with 3 seperate pieces of code 
+# 1. the user interface, 2. the functions and 3. the test code 
+# for the arithmetic, power, and trigonometric functions
+# This calculator contains 11 functions
+
+** Please note that the interface code does not link with the functions code. I ran out of time and was not able to link up the code correctly. The sin, cos, tan, !, sqrt and square functions are not working in the interface part of this code. However, all functions seem to be working correctly in the functions code and the test code.
